@@ -13,7 +13,6 @@
         }
     ],
     "require": {
-        "nesbot/carbon": "^2.34.0",
         "sezamin/dbmanager": "1.0"
     },
     "autoload": {
