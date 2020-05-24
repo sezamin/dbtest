@@ -1,0 +1,10 @@
+{
+    "name": "sezamin/dbtest",
+    "authors": [
+        {
+            "name": "shukurov",
+            "email": "shukurove@gmail.com"
+        }
+    ],
+    "require": {}
+}
